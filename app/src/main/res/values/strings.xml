@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Floating Home Button</string>
+    <string name="accessibility_desc">Digunakan untuk tombol Home, Back, dan Recent Apps pengganti tombol fisik.</string>
+</resources>
